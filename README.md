@@ -4,6 +4,8 @@
 The **MyToken** smart contract is an ERC20 token built on the Ethereum blockchain. It allows users to create and manage a fungible token, with features for minting and burning tokens. This contract is developed using Solidity and utilizes OpenZeppelin libraries for security and standard compliance.
 
 ## Outpt
+Address:0x913EE0F2B17DE55C1e62D4b170b1f4CCfcb37f5c
+
 ![Screenshot 2024-09-24 223624](https://github.com/user-attachments/assets/2fe9dac6-40a8-4542-ac7d-3f5e16d31a8e)
 
 
